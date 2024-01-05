@@ -1,4 +1,8 @@
-## Unreleased
+## v1.10.0 (2024-01-05)
+
+### Bug Fixes
+
+- test commit to change pypi instance
 
 ## v1.9.0 (2023-12-06)
 
